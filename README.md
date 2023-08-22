@@ -8,4 +8,4 @@
 6. A file named result will be created with the code
 7. Enjoy ;)
 
-Attention! It still has some bugs but it will help you to finish the exercise
+**Attention! THERE IS A BUG WITH THE IMAGE RECOGNITION THAT I HAVE NOT KNOWN HOW TO FIX CONTACT VIA INSTAGRAM FOR MORE INFORMATION**
